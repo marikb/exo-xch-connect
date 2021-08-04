@@ -1,0 +1,2 @@
+C:\Users\Itay\source\repos\MAAP-OutlookWebIn\MAAP-OutlookWebIn\obj\Debug\MAAP-OutlookWebIn.csprojAssemblyReference.cache
+C:\Users\Itay\source\repos\MAAP-OutlookWebIn\MAAP-OutlookWebIn\obj\Debug\MAAP-OutlookWebIn.csproj.CoreCompileInputs.cache

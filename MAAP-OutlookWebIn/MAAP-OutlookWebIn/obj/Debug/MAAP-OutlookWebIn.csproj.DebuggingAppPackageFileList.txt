@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\MAAP-OutlookWebInManifest.xml
+C:\Users\Itay\source\repos\MAAP-OutlookWebIn\MAAP-OutlookWebIn\bin\Debug\MAAP-OutlookWebIn.debugapp
